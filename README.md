@@ -1,2 +1,2 @@
 # Alpha
-This is my main reprository. It is public and you can see examples of my works here
+This is my main reprository. I'm using it for publication of small projects which I need to share. 
