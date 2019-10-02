@@ -1,0 +1,2 @@
+This is a code that creates a word cloud of top-50 words appearing in Google News US articles with 'Russia' tag.
+I'm using Gnews API for getting google news articles. More info: https://gnews.io/
